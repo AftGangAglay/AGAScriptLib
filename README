@@ -1,5 +1,5 @@
             AftGangAglay Script Lib
-Scripting runtime libraries for https://github.com/Th3T3chn0G1t/AftGangAglay
+Scripting runtime libraries for https://github.com/AftGangAglay/AftGangAglay
 
 The intended usage pattern for the scripting library is to embed the source
 tree into your project - either as a submodule or otherwise - and updating if
@@ -7,7 +7,7 @@ required. ABI may not be stable across versions - but the latest script lib
 should be compatible with the latest AftGangAglay upstream.
 
 This file is part of the AftGangAglay Script Library
-(https://github.com/Th3T3chn0G1t/AGAScriptLib) which is licenced under the
+(https://github.com/AftGangAglay/AGAScriptLib) which is licenced under the
 GNU General Public License v3.0 or later.
 
 Copyright (C) 2023 Emily "TTG" Banerjee <prs.ttg+aga@pm.me>
