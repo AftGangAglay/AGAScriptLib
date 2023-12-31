@@ -3,8 +3,9 @@ Scripting runtime libraries for https://github.com/AftGangAglay/AftGangAglay
 
 The intended usage pattern for the scripting library is to embed the source
 tree into your project - either as a submodule or otherwise - and updating if
-required. ABI may not be stable across versions - but the latest script lib
-should be compatible with the latest AftGangAglay upstream.
+required. Releases are packaged alongside upstream releases, though the
+latest script lib should also be compatible with the latest AftGangAglay
+upstream.
 
 This file is part of the AftGangAglay Script Library
 (https://github.com/AftGangAglay/AGAScriptLib) which is licenced under the
